@@ -8,8 +8,8 @@ My name is Caio Kazu, have 20 years and i naturally of Mato Grosso do Sul-Brazil
 <p align="left">
     <a href="https://github.com/RyusakiRL?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Stars Total" 
+            title="Total stars of GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/RyusakiRL?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
@@ -57,14 +57,5 @@ My name is Caio Kazu, have 20 years and i naturally of Mato Grosso do Sul-Brazil
 
 ### 📊 Statistics
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyusakiRL&hide=contribs,prs)
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyusakiRL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyusakiRL&commits_year=2025)
 
