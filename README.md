@@ -32,7 +32,7 @@ My name is Caio Kazu, have 20 years and i naturally of Mato Grosso do Sul-Brazil
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://imgs.search.brave.com/0RLBO-WLKAxIDXlYYu7yWuULT1ubAUu3Zy5CTYaXPlk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMzcv/MjEyLzc5NS9zbWFs/bC9zcWwtaWNvbi1m/cmVlLXZlY3Rvci5q/cGc" 
+    src="https://png.pngtree.com/png-vector/20190419/ourmid/pngtree-sql-file-document-icon-png-image_958898.jpg" 
 />
 
 <img 
