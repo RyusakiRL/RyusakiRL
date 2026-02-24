@@ -43,6 +43,14 @@ My name is Caio Kazu, have 20 years and i naturally of Mato Grosso do Sul-Brazil
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Rust" 
+    title="Rust"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg" 
+/>
 
 <br/>
 <br/>
