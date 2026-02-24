@@ -32,7 +32,7 @@ My name is Caio Kazu, have 20 years and i naturally of Mato Grosso do Sul-Brazil
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.clipartmax.com/png/middle/243-2432711_azure-sql-database-icon.png" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original.svg" 
 />
 
 <img 
@@ -41,7 +41,7 @@ My name is Caio Kazu, have 20 years and i naturally of Mato Grosso do Sul-Brazil
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
