@@ -24,7 +24,7 @@ My name is Caio Kazu, have 20 years and i naturally of Mato Grosso do Sul-Brazil
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
