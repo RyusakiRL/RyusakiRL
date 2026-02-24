@@ -5,7 +5,7 @@
 
 I am a Software Engineering student based in Mato Grosso do Sul, Brazil, with a strong focus on Back-end development. 
 
-My programming journey started in August 2025, and I am currently in my second semester at UNIGRAN. I am passionate about solving logical problems, structuring object-oriented systems, and building efficient databases. My linkedin is "[Caio Kazu](https://www.linkedin.com/in/caio-kazu-08a981396/)"
+My programming journey started in August 2025, and I am currently in my second semester at UNIGRAN. I am passionate about solving logical problems, structuring object-oriented systems, and building efficient databases. My linkedin is "[Caio Kazu](https://www.linkedin.com/in/caio-kazu)"
 
 <p align="left">
     <a href="https://github.com/RyusakiRL?tab=repositories&sort=stargazers">
