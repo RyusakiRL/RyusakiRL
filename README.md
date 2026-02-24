@@ -57,14 +57,7 @@ My name is Caio Kazu, have 20 years and i naturally of Mato Grosso do Sul-Brazil
 
 ### 📊 Statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RyusakiRL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyusakiRL&hide=contribs,prs)
 
 <img 
       align="left" 
