@@ -3,7 +3,9 @@
 
 **`Software Engineering Student | Back-end Developer`**
 
-My name is Caio Kazu, have 20 years and i naturally of Mato Grosso do Sul-Brazil. I started to programming in 08/2025 , with technical course in Software Engineering. I am currently in my second semester in UNIGRAN. My linkedin is "[Caio Kazu](https://www.linkedin.com/in/caio-kazu-08a981396/)"
+I am a Software Engineering student based in Mato Grosso do Sul, Brazil, with a strong focus on Back-end development. 
+
+My programming journey started in August 2025, and I am currently in my second semester at UNIGRAN. I am passionate about solving logical problems, structuring object-oriented systems, and building efficient databases. My linkedin is "[Caio Kazu](https://www.linkedin.com/in/caio-kazu-08a981396/)"
 
 <p align="left">
     <a href="https://github.com/RyusakiRL?tab=repositories&sort=stargazers">
