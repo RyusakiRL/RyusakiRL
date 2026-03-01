@@ -1,7 +1,7 @@
 🎓# Caio Kazu
 
 
-**`Software Engineering Student | Back-end Developer`**
+**`Software Engineering Student UNIGRAN | Back-end Developer`**
 
 I am a Software Engineering student based in Mato Grosso do Sul, Brazil, with a strong focus on Back-end development. 
 
