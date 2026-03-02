@@ -1,4 +1,4 @@
-🎓# Caio Kazu
+🎓# Caio Kazu Hamamoto
 
 
 **`Software Engineering Student UNIGRAN | Back-end Developer`**
