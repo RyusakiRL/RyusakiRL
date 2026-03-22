@@ -3,7 +3,7 @@
 
 **`Software Engineering Student UNIGRAN | Back-end Developer`**
 
-I am a Software Engineering student based in Mato Grosso do Sul, Brazil, with a strong focus on Back-end development data system. 
+I'm a Software Engineering student based in Mato Grosso do Sul, Brazil, with a strong focus on Back-end development data system. 
 
 My programming journey started in October 2025, and I am currently in my second semester at UNIGRAN. I am passionate about solving logical problems, structuring object-oriented systems and building efficient databases. My linkedin is "[Caio Kazu](https://www.linkedin.com/in/caio-kazu)"
 
